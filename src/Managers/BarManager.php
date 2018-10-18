@@ -14,7 +14,7 @@ use Recca0120\LaravelTracy\Contracts\IAjaxPanel;
 class BarManager
 {
     /**
-     * $panels...
+     * $panels.
      *
      * @var array
      */
